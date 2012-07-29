@@ -1,5 +1,10 @@
 package np.com.reetesh.training;
 
+/**
+ *  @author Reittes
+ *  Basic scene setup with red background and green rectangle entity
+ */
+ 
 import org.anddev.andengine.engine.Engine;
 import org.anddev.andengine.engine.camera.Camera;
 import org.anddev.andengine.engine.options.EngineOptions;
