@@ -1,5 +1,10 @@
 package np.com.reetesh.training;
 
+/**
+ *  @author Reittes
+ *  Class showing AndEngine implemented methods.
+ */
+ 
 import org.anddev.andengine.engine.Engine;
 import org.anddev.andengine.entity.scene.Scene;
 import org.anddev.andengine.ui.activity.BaseGameActivity;
